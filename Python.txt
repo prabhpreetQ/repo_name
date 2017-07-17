@@ -15,3 +15,4 @@ debugger allows inspection of local and global variables, evaluation of arbitrar
 stepping through the code a line at a time, and so on. The debugger is written in Python itself, testifying to 
 Python's introspective power. On the other hand, often the quickest way to debug a program is to add a few print 
 statements to the source: the fast edit-test-debug cycle makes this simple approach very effective.
+global variables
